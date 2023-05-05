@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "name": "1",
+    "coordinates": {
+      "x": 1,
+      "y": 1
+    },
+    "creationDate": "2023-05-04",
+    "area": 1.0,
+    "numberOfRooms": 1,
+    "furnish": "DESIGNER",
+    "view": "STREET",
+    "transport": "FEW",
+    "house": {
+      "name": "1",
+      "year": 1,
+      "numberOfFlatsOnFloor": 1
+    }
+  },
+  {
+    "id": 2,
+    "name": "4",
+    "coordinates": {
+      "x": 4,
+      "y": 4
+    },
+    "creationDate": "2023-05-04",
+    "area": 4.0,
+    "numberOfRooms": 4,
+    "furnish": "BAD",
+    "view": "GOOD",
+    "transport": "NORMAL",
+    "house": {
+      "name": "4",
+      "year": 4,
+      "numberOfFlatsOnFloor": 4
+    }
+  }
+]
